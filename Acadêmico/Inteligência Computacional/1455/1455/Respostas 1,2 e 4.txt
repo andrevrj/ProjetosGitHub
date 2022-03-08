@@ -1,0 +1,11 @@
+1) Metodo do cotovelo: Um metodo grafico que se cria uma metrica,
+que parece um cotovelo, e pegamos um ponto na distorção antes
+da reta começar tender para zero, então teremos um número legal de 
+custlers.
+
+2) Solução encontrada em 639
+
+V 
+F Resídeo = 0 é overfitting
+V
+F overffting é ineficaz para uma previsão de novos resultados
